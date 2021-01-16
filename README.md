@@ -1,8 +1,5 @@
 ### Hi there 👋
-I graduated from Ho Chi Minh City University Of Technology,  major in 
-Environmental Engineering. But after working I felt interested in Information 
-Technology so I studied a programming course at CyberSoft Academy. 
-By the effort of myself and the effort to learn plus the experience accumulated 
+I graduated from Ho Chi Minh City University Of Technology. By the effort of myself and the effort to learn plus the experience accumulated 
 during  the working process, I want to continue to advance in my job to higher 
 position like, Senior, ...
 
