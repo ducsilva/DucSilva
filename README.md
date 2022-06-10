@@ -3,7 +3,7 @@ I graduated from Ho Chi Minh City University Of Technology. By the effort of mys
 during  the working process, I want to continue to advance in my job to higher 
 position like, Senior, ...
 
-I’m currently work as Developer at Zigvy Corporation
+I’m currently work as Developer Alphatrue 
 <!--
 **DucSilva/DucSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
